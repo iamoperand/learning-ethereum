@@ -1,0 +1,1 @@
+This repository should contain everything that I used to dive into the Ethereum ecosystem.
